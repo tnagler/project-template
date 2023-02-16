@@ -1,0 +1,6 @@
+[submodule "latex-shortcuts"]
+	path = latex-shortcuts
+	url = git@github.com:tnagler/latex-shortcuts.git
+[submodule "latex-templates"]
+	path = latex-templates
+	url = git@github.com:tnagler/latex-templates.git
